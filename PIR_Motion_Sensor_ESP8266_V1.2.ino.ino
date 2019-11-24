@@ -26,8 +26,8 @@ OUT         D1 / GPIO5
 #include <ArduinoOTA.h>
 #include <Adafruit_Sensor.h>
 
-#define wifi_ssid "MacWorld"  //#define wifi_ssid "your_SSID"
-#define wifi_password "E2943228373F65C0"  //#define wifi_password "your_Password"
+#define wifi_ssid "your_SSID"
+#define wifi_password "your_Password"
 
 #define mqtt_server "PiHomeserver.local"  //#define mqtt_server "your_MQTT_Server_IP"
 #define mqtt_user "your_username"         
