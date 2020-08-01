@@ -13,10 +13,10 @@ OUT         D7
 #include <PubSubClient.h>
 #include <ArduinoOTA.h>
 
-#define wifi_ssid "GALiLEO"
-#define wifi_password "!Nospam4me2020"
+#define wifi_ssid "Your_SSID"
+#define wifi_password "Your_PW"
 
-#define mqtt_server "10.10.1.215"  //#define mqtt_server "your_MQTT_Server_IP"
+#define mqtt_server "Your_IP"  //#define mqtt_server "your_MQTT_Server_IP"
 #define mqtt_user ""         
 #define mqtt_password ""     
 
